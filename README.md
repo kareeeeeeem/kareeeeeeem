@@ -1,13 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Kareem</h1>
 <h3 align="center">Software engineer, Bachelor of Computer Science passionate about Mobile Programming with 2 years of experience in mobile development (Flutter). Looking for opportunities as a software developer with an expert team of developers who will help advance my career progression to senior positions in the future.</h3>
-{
-  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
-  "issueId": 66,
-  "name": "Eddie Jaoude",
-  "username": "eddiejaoude"
-}
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207">
+
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
