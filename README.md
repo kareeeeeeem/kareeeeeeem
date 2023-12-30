@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Kareem</h1>
+<h1 align="center"> Kareem Emad</h1>
 <h3 align="center">Software engineer, Bachelor of Computer Science passionate about Mobile Programming with 2 years of experience in mobile development (Flutter). Looking for opportunities as a software developer with an expert team of developers who will help advance my career progression to senior positions in the future.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -50,12 +50,6 @@
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
 </p>
 
-    
-
-</p>
-
-    <!-- Add other tools and languages as necessary -->
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kareeeeeeem&show_icons=true&locale=en&layout=compact"
         alt="kareeeeeeem" /></p>
