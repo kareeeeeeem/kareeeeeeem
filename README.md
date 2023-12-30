@@ -17,6 +17,11 @@
     <a href="https://www.linkedin.com/in/kareem-emad-651893219/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://wa.me/01554327428" target="blank"><img align="center"
+            src="https://imageurl_for_whatsapp_icon.svg"
+            alt="WhatsApp" height="30" width="40" /></a>
+</p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
