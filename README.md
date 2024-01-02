@@ -1,6 +1,6 @@
 
 <h1 align="center"> Kareem Emad</h1>
-<h2 align="center">flutter develope</h2>
+<h2 align="center">flutter developer </h2>
 <h3 align="center">Computers and artificial intelligence </h3>
 <h4 align="center"> HR at IEEE.BUB.SB </h4>
 
