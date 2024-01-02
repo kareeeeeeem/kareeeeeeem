@@ -1,6 +1,9 @@
 
 <h1 align="center"> Kareem Emad</h1>
-<h3 align="center">Software engineer, Bachelor of Computer Science passionate about Mobile Programming with 2 years of experience in mobile development (Flutter). Looking for opportunities as a software developer with an expert team of developers who will help advance my career progression to senior positions in the future.</h3>
+<h3 align="center">flutter developer
+Computers and artificial intelligence
+HR at IEEE.BUB.SB
+.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -29,8 +32,6 @@
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
             alt="android" width="40" height="40" /></a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img
-            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /></a>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img
             src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /></a>
     <a href="https://dart.dev" target="_blank" rel="noreferrer"><img
