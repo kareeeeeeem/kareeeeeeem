@@ -11,8 +11,7 @@
 <ul>
     <li>👨‍💻 All of my projects are available at <a href="https://github.com/kareeeeeeem" target="_blank">https://github.com/kareeeeeeem</a></li>
     <li>📫 How to reach me: <strong>kareememad852@gmail.com</strong></li>
-<li>📄 Know about my experiences: <a href="https://drive.google.com/drive/u/0/home" target="_blank">CV</a></li>
-</ul>
+<li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1xnVn6PvsVDHW-kkZ6-cSoJ3H1Fo3hHgp/view?usp=drive_link" target="_blank">CV</a></li>
 
 <h3 align="left">Conne
     ct with me:</h3>
