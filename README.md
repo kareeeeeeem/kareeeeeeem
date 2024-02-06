@@ -9,7 +9,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <ul>
-  /*   <li👨‍💻 All of my projects are available at <a href="https://github.com/kareeeeeeem" target="_blank">https://github.com/kareeeeeeem</a></li>     */
         <li><a href="mailto:kareememad852@gmail.com">📫 How to reach me: kareememad852@gmail.com</a></li>
 
 </ul>
