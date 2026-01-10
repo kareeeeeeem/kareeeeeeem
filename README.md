@@ -13,12 +13,13 @@
 ---
 
 ## 💫 About My Universe
-- 🚀 **Senior Flutter Developer** focusing on High-Performance & Security.
-- 🎓 **AI Engineer** from Banha University (Distinction A+ Graduate).
-- 🧠 **Architecture Mindset:** SOLID, Clean Architecture, Design Patterns.
-- 🎨 **Creative Soul:** Also an expert in **Photoshop, Lightroom & UI Design**.
-- 🌍 **Language Bridge:** Fluent in Arabic, English, and German.
-
+- 🚀 **Current:** **Flutter Developer** at **World Biters** (Nov 2023 – Present).
+  - Building high-performance cross-platform apps using **Bloc** & **Clean Architecture**.
+- 🏗️ **Mobile App Architect** at **Borg Al-Arab Company** (2022 – Present).
+  - Designing scalable mobile infrastructures and integrating secure financial systems.
+- 🌍 **Freelance Developer:** Delivered production-ready apps in E-commerce, Finance, and Education.
+- 🎖️ **Military Service:** Completed with distinction (**Good Conduct Award**).
+  
 ---
 
 ## 🛠️ My Tech Galaxy (Interactive)
