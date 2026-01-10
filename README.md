@@ -1,68 +1,75 @@
-
-<h1 align="center"> Kareem Emad</h1>
-<h2 align="center">flutter developer </h2>
-<h3 align="center">Computers and artificial intelligence </h3>
-<h4 align="center"> HR at IEEE.BUB.SB </h4>
-
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<ul>
-        <li><a href="mailto:kareememad852@gmail.com">📫 How to reach me: kareememad852@gmail.com</a></li>
-
-</ul>
-
-<li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1xnVn6PvsVDHW-kkZ6-cSoJ3H1Fo3hHgp/view?usp=drive_link" target="_blank">CV</a></li>
-
-<h3 align="left">Conne
-    ct with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/kareem-emad-651893219/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://wa.me/01554327428" target="blank"><img align="center"
-            src="https://imageurl_for_whatsapp_icon.svg"
-            alt="WhatsApp" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shining&color=0075C2&height=300&section=header&text=KAREEM%20EMAD&fontSize=90&animation=fadeIn&fontAlignY=38&desc=🚀%20SENIOR%20FLUTTER%20ARCHITECT%20|%20AI%20ENGINEER&descAlignY=60&descSize=25" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=0075C2&center=true&vCenter=true&width=750&lines=Mastering+The+Flutter+SDK;Clean+Architecture+Warrior;Payment+Gateway+Expert;Scalable+Enterprise+Solutions;UI+/+UX+Visionary" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" /></a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img
-            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /></a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"><img
-            src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /></a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-    <a href="https://en.cppreference.com/" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" /></a>
-    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40" /></a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a>
-    <a href="https://cloud.google.com/maps-platform/" target="_blank" rel="noreferrer"><img
-            src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="google-maps" width="40" height="40" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img
-            src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" /></a>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPER-0075C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RANK-SENIOR%20ARCHITECT-white?style=for-the-badge" />
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kareeeeeeem&show_icons=true&locale=en&layout=compact"
-        alt="kareeeeeeem" /></p>
+## 🌌 Professional Universe (About Me)
+- 🎓 **AI Engineer:** Graduate of **Computers and Artificial Intelligence**, Banha University (**Grade: A+** on Graduation Project).
+- 🏗️ **Architectural Mindset:** Specialist in **Clean Architecture, SOLID Principles, MVVM, and MVC**.
+- 🌍 **Market Expert:** Expert in **Localization (Arabic Markets)** & Responsive/Adaptive UI Design.
+- 🤝 **Leadership & HR:** Former **HR at IEEE BUB SB**, skilled in Project Coordination and People Management.
+- 🎨 **Creative Soul:** Professional in **Photography, Video Editing (Pixelmator, Premiere)**, and UI/UX Design.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kareeeeeeem&show_icons=true&locale=en"
-        alt="kareeeeeeem" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kareeeeeeem&"
-        alt="kareeeeeeem" /></p>
+## 🛠️ The Technical Arsenal (Skills Matrix)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,apple,java,python,cpp,firebase,supabase,postgres,mysql,sqlite,postman,git,github,figma,ps,ai,linux,windows,vscode,idea,linkedin,upwork&perline=12" />
+</p>
+
+<div align="center">
+
+| 🏗️ Architecture | 🧪 State Management | 💳 Integrations |
+| :--- | :--- | :--- |
+| **Clean Architecture** | **BLoC / Provider** | **Stripe / PayPal** |
+| **SOLID Principles** | **GetX / Riverpod** | **MyFatoorah / REST API** |
+| **Responsive UI** | **Functional Reactive** | **Google Maps / Auth** |
+
+</div>
+
+---
+
+## 📂 Featured Masterpieces (Projects)
+- 🎥 **TripTo:** Video-Driven Travel Platform with PostgreSQL & Bloc.
+- 💳 **Advanced E-Wallet:** Financial secure system with Global Payment Gates.
+- 🏋️ **Gym Management ERP:** Enterprise solution with QR-based Onboarding.
+- 🩺 **DocDoc:** Scalable Healthcare System with full REST API integration.
+
+---
+
+## 📊 Activity & Performance
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kareeeeeeem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareeeeeeem&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareeeeeeem&theme=tokyonight&hide_border=false" width="100%" />
+</p>
+
+---
+
+## 💼 Core Configuration (Experience.sh)
+```bash
+$ cat kareem_emad_profile.json
+{
+  "expertise": ["Localization", "Payment Gates", "Animations", "Debugging"],
+  "creative_tools": ["Pixelmator", "Photoshop", "Lightroom", "Premiere"],
+  "languages": {
+    "Arabic": "Native 🇪🇬",
+    "English": "Proficient 🇬🇧",
+    "German": "Proficient 🇩🇪"
+  },
+  "soft_skills": ["Problem-Solving", "Attention to Detail", "Collaboration"]
+}
