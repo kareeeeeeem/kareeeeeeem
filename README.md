@@ -1,75 +1,75 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shining&color=0075C2&height=300&section=header&text=KAREEM%20EMAD&fontSize=90&animation=fadeIn&fontAlignY=38&desc=🚀%20SENIOR%20FLUTTER%20ARCHITECT%20|%20AI%20ENGINEER&descAlignY=60&descSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0075C2&height=250&section=header&text=KAREEM%20EMAD&fontSize=80&animation=fadeIn&fontAlignY=35&desc=THE%20FLUTTER%20ARCHITECT&descAlignY=60&descSize=25" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=0075C2&center=true&vCenter=true&width=750&lines=Mastering+The+Flutter+SDK;Clean+Architecture+Warrior;Payment+Gateway+Expert;Scalable+Enterprise+Solutions;UI+/+UX+Visionary" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0075C2&center=true&vCenter=true&width=600&lines=Mastering+Clean+Architecture;Building+Scalable+Solutions;Flutter+Senior+Developer;UI+/+UX+Designer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPER-0075C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RANK-SENIOR%20ARCHITECT-white?style=for-the-badge" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZqZzR4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnBzPTE/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
 </p>
 
 ---
 
-## 🌌 Professional Universe (About Me)
-- 🎓 **AI Engineer:** Graduate of **Computers and Artificial Intelligence**, Banha University (**Grade: A+** on Graduation Project).
-- 🏗️ **Architectural Mindset:** Specialist in **Clean Architecture, SOLID Principles, MVVM, and MVC**.
-- 🌍 **Market Expert:** Expert in **Localization (Arabic Markets)** & Responsive/Adaptive UI Design.
-- 🤝 **Leadership & HR:** Former **HR at IEEE BUB SB**, skilled in Project Coordination and People Management.
-- 🎨 **Creative Soul:** Professional in **Photography, Video Editing (Pixelmator, Premiere)**, and UI/UX Design.
+## 💫 About My Universe
+- 🚀 **Senior Flutter Developer** focusing on High-Performance & Security.
+- 🎓 **AI Engineer** from Banha University (Distinction A+ Graduate).
+- 🧠 **Architecture Mindset:** SOLID, Clean Architecture, Design Patterns.
+- 🎨 **Creative Soul:** Also an expert in **Photoshop, Lightroom & UI Design**.
+- 🌍 **Language Bridge:** Fluent in Arabic, English, and German.
 
 ---
 
-## 🛠️ The Technical Arsenal (Skills Matrix)
-
+## 🛠️ My Tech Galaxy (Interactive)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,apple,java,python,cpp,firebase,supabase,postgres,mysql,sqlite,postman,git,github,figma,ps,ai,linux,windows,vscode,idea,linkedin,upwork&perline=12" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,java,python,cpp,firebase,supabase,postgres,mysql,sqlite,postman,git,figma,ps,linkedin&perline=8" />
 </p>
 
-<div align="center">
+---
 
-| 🏗️ Architecture | 🧪 State Management | 💳 Integrations |
+## 🐲 The Contribution Snake
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kareeeeeeem&show_icons=true&theme=radical&rank_icon=github&display_format=v2" width="400" />
+  <br>
+  <img src="https://github-alms.vercel.app/api/snake?github_user=kareeeeeeem&color_snake=%230075C2&color_dots=%23bfd6f6%2C%238dbdff%2C%2364a1ff%2C%234b91ff%2C%23217aff" alt="snake" />
+</p>
+
+---
+
+## 🏆 Featured Projects (Masterpieces)
+
+| 📁 Project | 🛠️ Architecture | ⚡ Key Feature |
 | :--- | :--- | :--- |
-| **Clean Architecture** | **BLoC / Provider** | **Stripe / PayPal** |
-| **SOLID Principles** | **GetX / Riverpod** | **MyFatoorah / REST API** |
-| **Responsive UI** | **Functional Reactive** | **Google Maps / Auth** |
-
-</div>
-
----
-
-## 📂 Featured Masterpieces (Projects)
-- 🎥 **TripTo:** Video-Driven Travel Platform with PostgreSQL & Bloc.
-- 💳 **Advanced E-Wallet:** Financial secure system with Global Payment Gates.
-- 🏋️ **Gym Management ERP:** Enterprise solution with QR-based Onboarding.
-- 🩺 **DocDoc:** Scalable Healthcare System with full REST API integration.
+| **TripTo** | Clean Architecture | Video-Driven Booking System |
+| **Advanced E-Wallet** | Bloc Management | Stripe & PayPal Secure Gates |
+| **Gym System** | Modular Approach | Enterprise QR Onboarding |
+| **DocDoc** | RESTful Integration | Healthcare Scalability |
 
 ---
 
-## 📊 Activity & Performance
+## 📊 Performance Metrics
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kareeeeeeem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareeeeeeem&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareeeeeeem&theme=tokyonight&hide_border=false" width="100%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareeeeeeem&layout=compact&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kareeeeeeem&theme=vision-friendly-dark" />
 </p>
 
 ---
 
-## 💼 Core Configuration (Experience.sh)
-```bash
-$ cat kareem_emad_profile.json
-{
-  "expertise": ["Localization", "Payment Gates", "Animations", "Debugging"],
-  "creative_tools": ["Pixelmator", "Photoshop", "Lightroom", "Premiere"],
-  "languages": {
-    "Arabic": "Native 🇪🇬",
-    "English": "Proficient 🇬🇧",
-    "German": "Proficient 🇩🇪"
-  },
-  "soft_skills": ["Problem-Solving", "Attention to Detail", "Collaboration"]
-}
+## 🌐 Connect In My Orbit
+<p align="center">
+<a href="https://wa.me/201554327428" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kareem-emad-1a4827387/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.upwork.com/freelancers/~017dd104ab82aa1939" target="blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+<a href="mailto:kareememad852@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1xnVn6PvsVDHW-kkZ6-cSoJ3H1Fo3hHgp/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/🔥_MY_RESUME_🔥-DOWNLOAD-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0075C2&height=100&section=footer" />
+</p>
