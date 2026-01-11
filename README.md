@@ -31,9 +31,7 @@
 
 ## 🐲 The Contribution Snake
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareeeeeeem&show_icons=true&theme=radical&rank_icon=github&display_format=v2" width="400" />
-  <br>
-  <img src="https://github-alms.vercel.app/api/snake?github_user=kareeeeeeem&color_snake=%230075C2&color_dots=%23bfd6f6%2C%238dbdff%2C%2364a1ff%2C%234b91ff%2C%23217aff" alt="snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kareeeeeeem&theme=tokyonight&area=true&hide_border=false&color=0075C2" width="100%" alt="Kareem's Activity Graph" />
 </p>
 
 ---
